@@ -72,6 +72,9 @@ java {
 }
 
 jar {
+	tasks.sourcesJar {
+		duplicatesStrategy = 'INCLUDE'
+	}
 	from("LICENSE") {
 		rename { "${it}_${project.base.archivesName.get()}"}
 	}

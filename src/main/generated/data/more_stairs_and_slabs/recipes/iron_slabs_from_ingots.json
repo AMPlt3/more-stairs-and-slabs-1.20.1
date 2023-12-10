@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "III"
+  ],
+  "result": {
+    "item": "more_stairs_and_slabs:iron_slab"
+  },
+  "show_notification": true
+}

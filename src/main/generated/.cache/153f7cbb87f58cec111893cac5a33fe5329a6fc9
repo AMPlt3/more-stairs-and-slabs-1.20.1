@@ -1,5 +1,7 @@
-// 1.20.1	2023-12-10T13:45:25.7910659	more_stairs_and_slabs/Tags for minecraft:block
-f0dae262ed00db139616e6304ecd8e62c20caa85 data\minecraft\tags\blocks\needs_diamond_tool.json
-ca39803aacb648629c3ed3464c31344dd3d24253 data\minecraft\tags\blocks\mineable\pickaxe.json
-afbbcb053d3ad2833c61bd017359b61369817799 data\minecraft\tags\blocks\needs_stone_tool.json
-799de91e978184f6cb9e2980a6395631a4fc5d3e data\minecraft\tags\blocks\needs_iron_tool.json
+// 1.20.1	2023-12-10T18:42:50.4428932	more_stairs_and_slabs/Tags for minecraft:block
+17191aa3cf26666cb90cd908a2b01e7c5102cd81 data\minecraft\tags\blocks\walls.json
+d9459854ff36dfa8cc8ff27050108acd8b20773d data\minecraft\tags\blocks\wool.json
+6de51ba09882947b919f1ffda384ea1d228358b4 data\minecraft\tags\blocks\needs_diamond_tool.json
+239763715dd67db3e94de28f76be41e20848704f data\minecraft\tags\blocks\mineable\pickaxe.json
+a6febea4fdc4eb620bfad13c20041216e838068a data\minecraft\tags\blocks\needs_stone_tool.json
+9693e84989ca3b53b1149d6015cbcaf0d1adb2ee data\minecraft\tags\blocks\needs_iron_tool.json

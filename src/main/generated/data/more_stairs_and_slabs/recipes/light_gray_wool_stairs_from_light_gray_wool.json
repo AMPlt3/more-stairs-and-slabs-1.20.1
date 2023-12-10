@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "I": {
+      "item": "minecraft:light_gray_wool"
+    }
+  },
+  "pattern": [
+    "  I",
+    " II",
+    "III"
+  ],
+  "result": {
+    "count": 8,
+    "item": "more_stairs_and_slabs:light_gray_wool_stairs"
+  },
+  "show_notification": true
+}

@@ -2,15 +2,17 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "G": {
-      "item": "minecraft:gold_ingot"
+    "I": {
+      "item": "minecraft:emerald"
     }
   },
   "pattern": [
-    "GGG"
+    "  I",
+    " II",
+    "III"
   ],
   "result": {
-    "item": "more_stairs_and_slabs:gold_slab"
+    "item": "more_stairs_and_slabs:emerald_stairs"
   },
   "show_notification": true
 }

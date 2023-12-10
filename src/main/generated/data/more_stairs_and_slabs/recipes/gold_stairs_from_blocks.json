@@ -2,14 +2,14 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "G": {
+    "B": {
       "item": "minecraft:gold_block"
     }
   },
   "pattern": [
-    "  G",
-    " GG",
-    "GGG"
+    "  B",
+    " BB",
+    "BBB"
   ],
   "result": {
     "count": 9,

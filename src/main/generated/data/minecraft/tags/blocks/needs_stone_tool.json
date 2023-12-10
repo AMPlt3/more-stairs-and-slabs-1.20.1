@@ -3,7 +3,9 @@
   "values": [
     "more_stairs_and_slabs:iron_slab",
     "more_stairs_and_slabs:iron_stairs",
+    "more_stairs_and_slabs:iron_wall",
     "more_stairs_and_slabs:lapis_slab",
-    "more_stairs_and_slabs:lapis_stairs"
+    "more_stairs_and_slabs:lapis_stairs",
+    "more_stairs_and_slabs:lapis_wall"
   ]
 }

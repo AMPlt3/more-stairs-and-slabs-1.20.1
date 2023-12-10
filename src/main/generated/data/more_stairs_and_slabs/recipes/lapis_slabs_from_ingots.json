@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "I": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "pattern": [
+    "III"
+  ],
+  "result": {
+    "item": "more_stairs_and_slabs:lapis_slab"
+  },
+  "show_notification": true
+}
