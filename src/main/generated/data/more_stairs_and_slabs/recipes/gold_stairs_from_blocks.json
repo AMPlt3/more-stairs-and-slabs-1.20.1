@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "pattern": [
+    "  G",
+    " GG",
+    "GGG"
+  ],
+  "result": {
+    "count": 9,
+    "item": "more_stairs_and_slabs:gold_stairs"
+  },
+  "show_notification": true
+}

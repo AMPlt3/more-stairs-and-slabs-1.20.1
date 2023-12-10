@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "more_stairs_and_slabs:block/diamond_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/diamond_block"
+    },
+    "type=top": {
+      "model": "more_stairs_and_slabs:block/diamond_slab_top"
+    }
+  }
+}

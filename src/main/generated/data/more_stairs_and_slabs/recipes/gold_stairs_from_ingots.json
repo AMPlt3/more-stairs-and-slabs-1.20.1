@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "  G",
+    " GG",
+    "GGG"
+  ],
+  "result": {
+    "item": "more_stairs_and_slabs:gold_stairs"
+  },
+  "show_notification": true
+}

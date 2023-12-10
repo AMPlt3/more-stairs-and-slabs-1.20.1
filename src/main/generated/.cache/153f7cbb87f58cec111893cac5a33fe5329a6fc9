@@ -1,0 +1,5 @@
+// 1.20.1	2023-12-10T13:45:25.7910659	more_stairs_and_slabs/Tags for minecraft:block
+f0dae262ed00db139616e6304ecd8e62c20caa85 data\minecraft\tags\blocks\needs_diamond_tool.json
+ca39803aacb648629c3ed3464c31344dd3d24253 data\minecraft\tags\blocks\mineable\pickaxe.json
+afbbcb053d3ad2833c61bd017359b61369817799 data\minecraft\tags\blocks\needs_stone_tool.json
+799de91e978184f6cb9e2980a6395631a4fc5d3e data\minecraft\tags\blocks\needs_iron_tool.json
